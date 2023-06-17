@@ -1,0 +1,2 @@
+openai~=0.27.8
+scholarly~=1.7.11
